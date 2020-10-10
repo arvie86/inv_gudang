@@ -230,13 +230,13 @@
                     <td colspan="7" align="center"><strong>Data Kosong</strong></td>
               <?php } ?>
                 </tbody>
-                <tfoot>
+                <!-- <tfoot>
                 <tr>
                   <th>No</th>
                   <th>Kode Satuan</th>
                   <th>Nama Satuan</th>
                 </tr>
-                </tfoot>
+                </tfoot> -->
               </table>
             </div>
             <!-- /.box-body -->
@@ -254,7 +254,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.4.0
     </div>
-    <strong>Copyright &copy; <?=date('Y')?></strong>
+    <strong>Copyright Dinas Pekerjaan Umum Semarang &copy; <?=date('Y')?></strong>
     
   </footer>
 
